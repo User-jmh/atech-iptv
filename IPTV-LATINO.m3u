@@ -19,3 +19,7 @@ https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/v
 # ATV+
 #EXTINF:-1 tvg-id="ATVPlus.pe" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="PERÚ",ATV+
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
+
+# RED BULL TV
+https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Red Bull TV (1080p)
