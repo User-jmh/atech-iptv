@@ -19,7 +19,3 @@ https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/v
 # ATV+
 #EXTINF:-1 tvg-id="ATVPlus.pe" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="PERÚ",ATV+
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
-
-# PANAMERICANA
-#EXTINF:-1 tvg-id="Panamericana.pe" tvg-logo="https://i.imgur.com/2fUwpxd.png" group-title="PERÚ",Panamericana Televisión
-https://cdnhd.iblups.com/hls/ptv2.m3u8
