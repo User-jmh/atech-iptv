@@ -25,23 +25,23 @@ https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
 https://e7c8f7d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVi0xX0hMUw/playlist.m3u8
 
 # HISTORY CHANNEL 
-#EXTINF:-1 tvg-id="History.si@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="Documentary",History Channel (1080p)
+#EXTINF:-1 tvg-id="History.si@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="Documentary",History Channel
 https://streamer12.xploretv.si/__cl/cg:prod/__c/A1_SI_HISTORYHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
 
 # HISTORY 2 CHANNEL 
-#EXTINF:-1 tvg-id="History2LatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" group-title="Documentary",History 2 Latin America
+#EXTINF:-1 tvg-id="History2LatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" group-title="Documentary",History 2 
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8
 
 # NATIONAL GEOGRAPHIC
-#EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Documentary",National Geographic Latin America
+#EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Documentary",National Geographic
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/index.m3u8
 
 #PARAMOUNT CHANNEL
-#EXTINF:-1 tvg-id="ParamountChannel.fr@SD" tvg-logo="https://i.imgur.com/BqmDlC2.png" group-title="Movies;Series",Paramount Channel (1080p)
+#EXTINF:-1 tvg-id="ParamountChannel.fr@SD" tvg-logo="https://i.imgur.com/BqmDlC2.png" group-title="Movies;Series",Paramount
 https://viamotionhsi.netplus.ch/live/eds/paramount/browser-HLS8/paramount.m3u8
 
 #TELEMUNDO TELENOVELAS
-#EXTINF:-1 tvg-id="TelemundoTelenovelasClasicas.us" tvg-logo="https://i.imgur.com/9bPcYIN.png" group-title="Series",Telemundo Telenovelas Clásicas
+#EXTINF:-1 tvg-id="TelemundoTelenovelasClasicas.us" tvg-logo="https://i.imgur.com/9bPcYIN.png" group-title="Series",Telemundo
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=11274d9c-4f3d-4891-ae2e-08937bcc8bb5
 
 
