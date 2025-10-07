@@ -58,7 +58,7 @@ https://streamtv.mediasector.es/hls/activatv/index.m3u8
 
 
 
-#EXTM3U
+
 #EXTINF:-1,PY: Telefuturo
 http://iptv.fronteratvonline.com:8080/live/Frontdemo12/Demofront13/45695.m3u8
 #EXTINF:-1,PY l ABC
