@@ -100,12 +100,6 @@ https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="691" tvg-name="Exitosa" tvg-logo="https://cdn.m3u.cl/logo/691_Exitosa.png" group-title="PERÚ", Exitosa | PE
 https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="1659" tvg-name="Foro TV" tvg-logo="https://cdn.m3u.cl/logo/1659_Foro_TV.png" group-title="PERÚ", Foro TV | PE
-https://mc.servidor.stream:19360/8274/8274.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="1093" tvg-name="Genios TV" tvg-logo="https://cdn.m3u.cl/logo/1093_Genios_TV.png" group-title="PERÚ", Genios TV | PE
-https://live.obslivestream.com/geniostvmux/index.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="697" tvg-name="Hechicera TV" tvg-logo="https://cdn.m3u.cl/logo/697_Hechicera_TV.png" group-title="PERÚ", Hechicera TV | PE
 https://video.misistemareseller.com:443/corporationhc/corporationhc/playlist.m3u8?PlaylistM3UCL
 
@@ -114,9 +108,6 @@ https://servilive.com:3028/live/jntv19live.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="1657" tvg-name="Latina" tvg-logo="https://cdn.m3u.cl/logo/1657_Latina.png" group-title="PERÚ", Latina | PE
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="689" tvg-name="Mega TV Arequipa" tvg-logo="https://cdn.m3u.cl/logo/689_Mega_TV_Arequipa.png" group-title="PERÚ", Mega TV Arequipa | PE
-https://mc.servidor.stream:19360/megatv/megatv.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="1491" tvg-name="Mega TV Jaen" tvg-logo="https://cdn.m3u.cl/logo/1491_Mega_TV_Jaen.png" group-title="PERÚ", Mega TV Jaen | PE
 https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8?PlaylistM3UCL
