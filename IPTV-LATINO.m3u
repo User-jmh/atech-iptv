@@ -21,13 +21,10 @@ https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="1066" tvg-name="ATV+" tvg-logo="https://cdn.m3u.cl/logo/1066_ATV_.png" group-title="PERÚ", ATV+ | PE
 https://d1svme839xkbsn.cloudfront.net/index.m3u8?PlaylistM3UCL
+
 # ATV+
 #EXTINF:-1 tvg-id="ATVPlus.pe" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="PERÚ",ATV+
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
-
-# RCR
-#EXTINF:-1 tvg-id="RCR.pe" tvg-logo="https://i.imgur.com/A8TRPrF.png" group-title="PERÚ",RCR
-https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8
 
 # RED BULL TV
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT",Red Bull TV
