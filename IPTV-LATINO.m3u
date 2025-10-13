@@ -40,10 +40,67 @@ http://38.183.182.166:8000/play/a13g/index.m3u8
 https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8?PlaylistM3UCL
 
 
+
+
+
+
+# <<<<<<<<<<----ANIMADO---->>>>>>>>>>
+# DISNEY CHANNEL
+#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://pbs.twimg.com/profile_images/1740338476736815104/vJGKgOJe_400x400.jpg" group-title="ANIMADO",Disney Channel
+http://201.230.121.186:8000/play/a0fb/index.m3u8
+
+# DISNEY XD
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="DISNEY XD" tvg-logo="https://pbs.twimg.com/profile_images/1740338476736815104/vJGKgOJe_400x400.jpg" group-title="ANIMADO", Disney XD | Animado
+http://201.230.121.186:8000/play/a0fb/index.m3u8
+
+# DISNEY JR
+#EXTINF:-1 tvg-id="Disney JR" tvg-name="Disney Jr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="ANIMADO", Disney JR | Animado
+http://38.183.182.166:8000/play/a0j9/index.m3u8
+
+# ANIME VISION
+#EXTINF:-1 tvg-id="Anime Visión" tvg-logo="https://i.imgur.com/pUpKznl.png" group-title="ANIMADO",Anime Vision | Animado
+https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
+
+
+
+
+# <<<<<<<<<<---INTERNACIONAL---->>>>>>>>>>
+# PARAMOUNT TV
+#EXTINF:-1 tvg-id="Paramount Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="PERÚ",Paramount TV 
+http://176.65.146.237:8401/play/a09i/index.m3u8
+
 # TELEMUNDO 
-#EXTINF:-1 tvg-id="TelemundoTelenovelasClasicas.us" tvg-logo="https://i.imgur.com/9bPcYIN.png" group-title="Series",Telemundo
+#EXTINF:-1 tvg-id="TelemundoTelenovelasClasicas.us" tvg-logo="https://i.imgur.com/9bPcYIN.png" group-title="INTERNACIONAL",Telemundo
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=11274d9c-4f3d-4891-ae2e-08937bcc8bb5
 
+
+
+
+
+# <<<<<<<<<<----DEPORTE---->>>>>>>>>>
+
+# GOLPERÚ
+#EXTINF:-1 tvg-id="GOL PERÚ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/640px-Gol_Per%C3%BA_2019.svg.png" group-title="DEPORTE" tvg-name="Gol Perú",GOLPERÚ
+http://38.183.182.166:8000/play/a120/index.m3u8
+
+
+# LIGA 1
+#EXTINF:-1 tvg-id="LIGA 1" tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="DEPORTE" tvg-name="Liga1",L1 MAX
+http://38.183.182.166:8000/play/a12t/index.m3u8
+
+
+# TELE DEPORTE
+#EXTINF:-1 tvg-id="TDP.TV" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="SPORT" tvg-name="Teledeporte",Teledeporte
+https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
+
+# RED BULL TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT",Red Bull TV
+https://e7c8f7d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVi0xX0hMUw/playlist.m3u8
+
+
+
+
+# <<<<<<<<<<----TV PERÚ---->>>>>>>>>>
 # ACTIVA TV
 #EXTINF:-1 tvg-id="ActivaTV.es" tvg-logo="https://i.imgur.com/VCUZKiw.png" group-title="Music",Activa TV (720p)
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
@@ -164,43 +221,6 @@ https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="1555" tvg-name="Emanuel7 TV" tvg-logo="https://cdn.m3u.cl/logo/1555_Emanuel7_TV.png" group-title="PERÚ", Emanuel7 TV | PE
 https://stmv6.voxtvhd.com.br/emanueltv/emanueltv/playlist.m3u8?PlaylistM3UCL
-
-
-# <<<<<<<<<<----ANIMADO---->>>>>>>>>>
-
-# DISNEY XD
-#EXTINF:-1 tvg-id="1000" tvg-name="DISNEY XD" tvg-logo="https://pbs.twimg.com/profile_images/1740338476736815104/vJGKgOJe_400x400.jpg" group-title="ANIMADO", Disney XD | Animado
-http://201.230.121.186:8000/play/a0fb/index.m3u8
-
-# DISNEY JR
-#EXTINF:-1 tvg-id="1000" tvg-name="Disney Jr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="ANIMADO", Disney JR | Animado
-http://38.183.182.166:8000/play/a0j9/index.m3u8
-
-
-
-# <<<<<<<<<<----DEPORTE---->>>>>>>>>>
-
-# GOLPERÚ
-http://181.188.216.5:18000/play/a014/index.m3u8
-
-
-# LIGA 1
-#EXTINF:-1 tvg-id="LIGA 1" tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="DEPORTE" tvg-name="Liga1",L1 MAX
-http://38.183.182.166:8000/play/a12t/index.m3u8
-
-
-# TELE DEPORTE
-#EXTINF:-1 tvg-id="TDP.TV" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="SPORT" tvg-name="Teledeporte",Teledeporte
-https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
-
-# RED BULL TV
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT",Red Bull TV
-https://e7c8f7d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVi0xX0hMUw/playlist.m3u8
-
-
-
-
-
 
 
 # <<<<<<<<<<----RADIO---->>>>>>>>>>
